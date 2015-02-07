@@ -159,10 +159,13 @@
                <hi>A shorte Introduction into the</hi> Science of Musicke, made for such as are desirous to haue the know<g ref="char:EOLunhyphen"/>ledge therof, for the singing of these Psalmes.</head>
             <p>
                <seg rend="decorInit">F</seg>Or that the rude &amp; ignorant in Song, may with more delight desire, and good wyl: be moued and drawen to the godly exer<g ref="char:EOLhyphen"/>cise of singing of Psalmes, as<g ref="char:EOLhyphen"/>well in common place of prayer, where al<g ref="char:EOLhyphen"/>together with one voyce render thankes &amp; prayses to God, as priuatly by themselues, or at home in their houses: I haue set here in the beginning of this boke of psalmes, an easie and moste playne way and rule, of the order of the Notes and Kayes of singing, whiche commonly is called the scale of Mu<g ref="char:EOLhyphen"/>sicke, or the <hi>Gamma vt.</hi> Wherby (any dilige<g ref="char:cmbAbbrStroke">̄</g>ce geuen therunto) euerye man may in a fewe dayes: yea, in a few houres, easely without all payne, &amp; that also without ayde or helpe of any other teacher, attayne to a sufficient, knowledg, to singe any Psalme contayned in thys Booke, or any suche other playne and easy Songes as these are.</p>
-            <figure>
-               <head>☞ Beholde this table</head>
-               <figDesc>gamut</figDesc>
-            </figure>
+            <p>
+               <pb facs="tcp:25701:5"/>
+               <figure>
+                  <head>☞ Beholde this table</head>
+                  <figDesc>gamut</figDesc>
+               </figure>
+            </p>
             <p>In this table, or <hi>ga<g ref="char:cmbAbbrStroke">̄</g>ma vt,</hi> is co<g ref="char:cmbAbbrStroke">̄</g>tey<g ref="char:EOLunhyphen"/>ned all, what is necessa<g ref="char:EOLhyphen"/>ri to the knowe<g ref="char:EOLhyphen"/>ledge of singing Where<g ref="char:EOLhyphen"/>fore it must be diligent lie waid &amp; muste also bee perfect<g ref="char:EOLhyphen"/>ly co<g ref="char:cmbAbbrStroke">̄</g>mit<g ref="char:EOLunhyphen"/>ted to memory, so that ye can redely and di<g ref="char:EOLhyphen"/>stinctly say it without boke, both forwarde and backward: that is, vpward and down<g ref="char:EOLhyphen"/>ward And this is the greatest pain that ye nede to take in this trauayle.</p>
             <p>
                <pb facs="tcp:25701:5"/>
@@ -513,79 +516,79 @@ When sinfull mans decay inhand thou tokest to restore:</l>
                   <seg rend="decorInit">O</seg> all ye works of god the lord bles ye <gap reason="music">
                      <desc>〈♫〉</desc>
                   </gap> the Lord prayse him &amp; magnifye him for euer.</p>
-               <milestone type="tcpmilestone" unit="verse" n="2"/>
+               <milestone type="tcpmilestone" n="2" unit="verse"/>
                <l>O ye the Angels of the Lorde, bles ye the Lorde prayse him and magnifye hym for euer.</l>
-               <milestone type="tcpmilestone" unit="verse" n="3"/>
+               <milestone type="tcpmilestone" n="3" unit="verse"/>
                <l>O ye the sterry heauens hie, blesse ye the Lorde prayse hym and magnifye hym for euer.</l>
-               <milestone type="tcpmilestone" unit="verse" n="4"/>
+               <milestone type="tcpmilestone" n="4" unit="verse"/>
                <l>O ye waters aboue the sky, blesse ye the Lorde prayse hym and magnifye hym for euer.</l>
-               <milestone type="tcpmilestone" unit="verse" n="5"/>
+               <milestone type="tcpmilestone" n="5" unit="verse"/>
                <l>O all ye powers of the Lorde, blesse ye the Lorde prayse hym and magnifye hym for euer.</l>
-               <milestone type="tcpmilestone" unit="verse" n="6"/>
+               <milestone type="tcpmilestone" n="6" unit="verse"/>
                <l>O ye the shining Son and Mone, blesse ye the Lorde, prayse hym and magnifye hym for euer.</l>
-               <milestone type="tcpmilestone" unit="verse" n="7"/>
+               <milestone type="tcpmilestone" n="7" unit="verse"/>
                <l>O ye the glistring starres of heauen, blesse ye the Lorde, prayse hym and magnifye
 
 
 <pb facs="tcp:25701:17"/>
 hym for euer.</l>
-               <milestone type="tcpmilestone" unit="verse" n="8"/>
+               <milestone type="tcpmilestone" n="8" unit="verse"/>
                <l>O the showers and dropping dew, blesse ye the Lord prayse him and mag<g ref="char:EOLhyphen"/>nifye him for euer.</l>
-               <milestone type="tcpmilestone" unit="verse" n="9"/>
+               <milestone type="tcpmilestone" n="9" unit="verse"/>
                <l>O ye the blowing wyndes of God, bles ye the Lord prayse him and mag<g ref="char:EOLhyphen"/>nifye hym for euer.</l>
-               <milestone type="tcpmilestone" unit="verse" n="10"/>
+               <milestone type="tcpmilestone" n="10" unit="verse"/>
                <l>O ye the fire and warming heate, blesse ye the Lord prayse him and mag<g ref="char:EOLhyphen"/>nifye hym for euer.</l>
-               <milestone type="tcpmilestone" unit="verse" n="11"/>
+               <milestone type="tcpmilestone" n="11" unit="verse"/>
                <l>Ye winter and the sommer tyde, blesse ye the Lord prayse him and mag<g ref="char:EOLhyphen"/>nifye hym for euer.</l>
-               <milestone type="tcpmilestone" unit="verse" n="12"/>
+               <milestone type="tcpmilestone" n="12" unit="verse"/>
                <l>O ye the dewes and binding frostes, bles ye the lorde prayse him and mag<g ref="char:EOLhyphen"/>nifye him for euer.</l>
-               <milestone type="tcpmilestone" unit="verse" n="13"/>
+               <milestone type="tcpmilestone" n="13" unit="verse"/>
                <l>O ye the frost and chilling colde, blesse ye the lorde prayse him and mag<g ref="char:EOLhyphen"/>nifye hym for euer.</l>
-               <milestone type="tcpmilestone" unit="verse" n="14"/>
+               <milestone type="tcpmilestone" n="14" unit="verse"/>
                <l>O ye congeled ise and snow, blesse ye the lorde prayse him and mag<g ref="char:EOLhyphen"/>nifye hym for euer.</l>
-               <milestone type="tcpmilestone" unit="verse" n="15"/>
+               <milestone type="tcpmilestone" n="15" unit="verse"/>
                <l>O ye the nightes and light somdayes, blesse ye the lorde prayse hym and mag<g ref="char:EOLhyphen"/>nifye hym for euer.</l>
-               <milestone type="tcpmilestone" unit="verse" n="16"/>
+               <milestone type="tcpmilestone" n="16" unit="verse"/>
                <l>O the darknes and the light, blesse ye the lorde prayse him and mag<g ref="char:EOLhyphen"/>nifye hym for euer.</l>
-               <milestone type="tcpmilestone" unit="verse" n="17"/>
+               <milestone type="tcpmilestone" n="17" unit="verse"/>
                <l>O ye the lightnings and the cloudes blesse ye the lorde prayse him and mag<g ref="char:EOLhyphen"/>nifye hym for euer.</l>
-               <milestone type="tcpmilestone" unit="verse" n="18"/>
+               <milestone type="tcpmilestone" n="18" unit="verse"/>
                <l>O let the earth eke blesse the lorde, yea bles the lord praise him &amp; magnify
 
 
 <pb facs="tcp:25701:18"/>
 him for euer.</l>
-               <milestone type="tcpmilestone" unit="verse" n="19"/>
+               <milestone type="tcpmilestone" n="19" unit="verse"/>
                <l>O ye the mountaines and the hilles blesse ye the Lord prayse him &amp; magnifie hym for euer.</l>
-               <milestone type="tcpmilestone" unit="verse" n="20"/>
+               <milestone type="tcpmilestone" n="20" unit="verse"/>
                <l>O all ye grene thinges on the earth blesse ye the Lord praise hym &amp; magni<g ref="char:EOLhyphen"/>fye hym for euer.</l>
-               <milestone type="tcpmilestone" unit="verse" n="21"/>
+               <milestone type="tcpmilestone" n="21" unit="verse"/>
                <l>O ye the euer springing welles, bles ye the Lorde praise him and mag<g ref="char:EOLhyphen"/>nifye him for euer.</l>
-               <milestone type="tcpmilestone" unit="verse" n="22"/>
+               <milestone type="tcpmilestone" n="22" unit="verse"/>
                <l>O ye the seas and ye the floodes bles ye the Lorde prayse him and mag<g ref="char:EOLhyphen"/>nifye hym for euer.</l>
-               <milestone type="tcpmilestone" unit="verse" n="23"/>
+               <milestone type="tcpmilestone" n="23" unit="verse"/>
                <l>whales and all that in waters moue bles ye the Lorde prayse him and mag<g ref="char:EOLhyphen"/>nifye hym for euer.</l>
-               <milestone type="tcpmilestone" unit="verse" n="24"/>
+               <milestone type="tcpmilestone" n="24" unit="verse"/>
                <l>O all ye flying foules of thayre, bles ye the Lorde prayse him and mag<g ref="char:EOLhyphen"/>nifye him for euer.</l>
-               <milestone type="tcpmilestone" unit="verse" n="25"/>
+               <milestone type="tcpmilestone" n="25" unit="verse"/>
                <l>O all the beastes and cattayll eke bles ye the Lorde praise him and mag<g ref="char:EOLhyphen"/>nifye him for euer.</l>
-               <milestone type="tcpmilestone" unit="verse" n="26"/>
+               <milestone type="tcpmilestone" n="26" unit="verse"/>
                <l>O ye the children of mankind bles ye the Lorde prayse him and mag<g ref="char:EOLhyphen"/>nifye him for euer.</l>
-               <milestone type="tcpmilestone" unit="verse" n="27"/>
+               <milestone type="tcpmilestone" n="27" unit="verse"/>
                <l>Let Israell eke bles the Lorde, yea bles the Lord prayse him and mag<g ref="char:EOLhyphen"/>nifye him for euer.</l>
-               <milestone type="tcpmilestone" unit="verse" n="28"/>
+               <milestone type="tcpmilestone" n="28" unit="verse"/>
                <l>O ye the priestes of God the Lorde bles ye the Lorde prayse hym and mag<g ref="char:EOLhyphen"/>nifye hym for euer.</l>
-               <milestone type="tcpmilestone" unit="verse" n="29"/>
+               <milestone type="tcpmilestone" n="29" unit="verse"/>
                <l>O ye the seruantes of the Lorde,
 
 
 <pb facs="tcp:25701:18"/>
 blesse ye the lorde prayse him and mag<g ref="char:EOLhyphen"/>nifye him for euer.</l>
-               <milestone type="tcpmilestone" unit="verse" n="30"/>
+               <milestone type="tcpmilestone" n="30" unit="verse"/>
                <l>ye sprites and soules of righteous men, blesse ye the lorde prayse him and mag<g ref="char:EOLhyphen"/>nifye hym for euer.</l>
-               <milestone type="tcpmilestone" unit="verse" n="31"/>
+               <milestone type="tcpmilestone" n="31" unit="verse"/>
                <l>ye holy and ye meke of hart blesse ye the lorde prayse him and mag<g ref="char:EOLhyphen"/>nifye him for euer.</l>
-               <milestone type="tcpmilestone" unit="verse" n="32"/>
+               <milestone type="tcpmilestone" n="32" unit="verse"/>
                <l>O Ananias blesse the lorde blesse thou the lord, prayse him and mag<g ref="char:EOLunhyphen"/>nifye him for euer,</l>
                <l>O Azarias bles the lorde, bles thou the lord prayse him and mag<g ref="char:EOLhyphen"/>nifie him for euer.</l>
                <l>And Misaell bles thou the lorde, blesse thou the lord praise him and mag<g ref="char:EOLhyphen"/>nifye him for euer.</l>
@@ -13216,29 +13219,29 @@ Whiche kedars are by name:</l>
                   <gap reason="music">
                      <desc>〈♫〉</desc>
                   </gap> and earth framed, &amp; all things therin named.</p>
-               <milestone type="tcpmilestone" unit="verse" n="3"/>
+               <milestone type="tcpmilestone" n="3" unit="verse"/>
                <l>
                   <pb n="328" facs="tcp:25701:193"/>
 3 Thy fote from slip he will preserue,</l>
                <l>And will thee safely kepe:</l>
                <l>For he will neuer slepe.</l>
-               <milestone type="tcpmilestone" unit="verse" n="4"/>
+               <milestone type="tcpmilestone" n="4" unit="verse"/>
                <l>Lo he that doth Israll conserue,</l>
                <l>No slepe at all can him catche?</l>
                <l>But his eyes shall euer watche,</l>
-               <milestone type="tcpmilestone" unit="verse" n="5"/>
+               <milestone type="tcpmilestone" n="5" unit="verse"/>
                <l>The Lorde is thy warrant alway,</l>
                <l>The Lorde eke doth thee couer,</l>
                <l>As at thy ryght hand euer.</l>
-               <milestone type="tcpmilestone" unit="verse" n="6"/>
+               <milestone type="tcpmilestone" n="6" unit="verse"/>
                <l>The sunne shall not thee parche by day,</l>
                <l>Nor the mone not halfe so bryght.</l>
                <l>Shall with could thee hurt by night.</l>
-               <milestone type="tcpmilestone" unit="verse" n="7"/>
+               <milestone type="tcpmilestone" n="7" unit="verse"/>
                <l>The Lorde will kepe thee from distres,</l>
                <l>And wyll thy lyfe sure saue:</l>
                <l>And thou also shalt haue.</l>
-               <milestone type="tcpmilestone" unit="verse" n="8"/>
+               <milestone type="tcpmilestone" n="8" unit="verse"/>
                <l>In all thy busines good successe,</l>
                <l>Where euer thou goest in or out,</l>
                <l>God will thy thinges bring about.</l>
@@ -13271,7 +13274,7 @@ Whiche kedars are by name:</l>
                   </gap> set, muche lyke a Citie net, the like wherof <gap reason="music">
                      <desc>〈♫〉</desc>
                   </gap> is not els where.</p>
-               <milestone type="tcpmilestone" unit="verse" n="4"/>
+               <milestone type="tcpmilestone" n="4" unit="verse"/>
                <l>The trybes with one accorde,</l>
                <l>The tribes of God the Lorde,</l>
                <l>Are thither bent theyr way to take:</l>
@@ -13282,26 +13285,26 @@ Whiche kedars are by name:</l>
                   <pb n="330" facs="tcp:25701:194"/>
 That there his israell.</l>
                <l>Their prayers shoulde together make.</l>
-               <milestone type="tcpmilestone" unit="verse" n="5"/>
+               <milestone type="tcpmilestone" n="5" unit="verse"/>
                <l>For there are thrones erect,</l>
                <l>And that for this respect.</l>
                <l>To set forth iustice orderly.</l>
                <l>Which thrones right to mainteine,</l>
                <l>To dauids house perteine,</l>
                <l>His folke to iudge accordingly.</l>
-               <milestone type="tcpmilestone" unit="verse" n="6"/>
+               <milestone type="tcpmilestone" n="6" unit="verse"/>
                <l>To pray let vs not cease,</l>
                <l>For Ierusalems peace,</l>
                <l>Thy friendes God prosper mightely.</l>
-               <milestone type="tcpmilestone" unit="verse" n="7"/>
+               <milestone type="tcpmilestone" n="7" unit="verse"/>
                <l>Peace be thy walles about,</l>
                <l>And prosper the throughout,</l>
                <l>Thy places eke continually.</l>
-               <milestone type="tcpmilestone" unit="verse" n="8"/>
+               <milestone type="tcpmilestone" n="8" unit="verse"/>
                <l>I wish thy prosperous state,</l>
                <l>For my poore brethrens sake,</l>
                <l>That comfort haue by meanes of the.</l>
-               <milestone type="tcpmilestone" unit="verse" n="9"/>
+               <milestone type="tcpmilestone" n="9" unit="verse"/>
                <l>Gods house both me allure,</l>
                <l>Thy welth for to procure</l>
                <l>So much allwayes as lieth in me.</l>
@@ -13500,28 +13503,28 @@ That there his israell.</l>
 Likewise in vayne men vndertake,</l>
                <l>Cities and holdes to watch and ward,</l>
                <l>Except the Lord be their safegard.</l>
-               <milestone type="tcpmilestone" unit="verse" n="2"/>
+               <milestone type="tcpmilestone" n="2" unit="verse"/>
                <l>Though ye ryse early in the morne,</l>
                <l>And so at night go late to bed,</l>
                <l>Feding full hardly with browne breade:</l>
                <l>yet were your labor lost and worne,</l>
                <l>But they whom God doth loue and kepe</l>
                <l>Receyue all thinges with quiet slepe.</l>
-               <milestone type="tcpmilestone" unit="verse" n="3"/>
+               <milestone type="tcpmilestone" n="3" unit="verse"/>
                <l>Therfore marke well, when euer ye see,</l>
                <l>That men haue heires to enioy their la<g ref="char:cmbAbbrStroke">̄</g>d:</l>
                <l>It is the gift of Gods owne hand,</l>
                <l>For God him selfe doth multiplye,</l>
                <l>Of his great liberalitie,</l>
                <l>The blessing of posteritie.</l>
-               <milestone type="tcpmilestone" unit="verse" n="4"/>
+               <milestone type="tcpmilestone" n="4" unit="verse"/>
                <l>And when the children come to age,</l>
                <l>They grow in strength and actiuenes,</l>
                <l>In person, and comelines,</l>
                <l>So that a shaft shot with courage,</l>
                <l>Of one that hath a most strong arme,</l>
                <l>Flyeth not so swyft, nor doth lyke harme</l>
-               <milestone type="tcpmilestone" unit="verse" n="5"/>
+               <milestone type="tcpmilestone" n="5" unit="verse"/>
                <l>Oh well is him that hath his quiuer,</l>
                <l>Fournished with such altilerye:</l>
                <l>For when in perill he shalbe,</l>
@@ -13537,16 +13540,16 @@ Likewise in vayne men vndertake,</l>
                <l>
                   <pb n="337" facs="tcp:25701:197"/>
 BLessed art thou that fearest God, <note place="margin">Sing thys as the. cxxxvii.</note> and walkest in his way:</l>
-               <milestone type="tcpmilestone" unit="verse" n="2"/>
+               <milestone type="tcpmilestone" n="2" unit="verse"/>
                <l>For of thy labor thou shalt eate, happye arte thou (I say.)</l>
-               <milestone type="tcpmilestone" unit="verse" n="3"/>
+               <milestone type="tcpmilestone" n="3" unit="verse"/>
                <l>Like frutefull vynes on thy house sydes, so doth thy wyfe spryng out:</l>
                <l>Thy children stande lyke Oliue plantes, thy table round about.</l>
-               <milestone type="tcpmilestone" unit="verse" n="4"/>
+               <milestone type="tcpmilestone" n="4" unit="verse"/>
                <l>Thus art thou blest that fearest God, and he shall let thee see:</l>
-               <milestone type="tcpmilestone" unit="verse" n="5"/>
+               <milestone type="tcpmilestone" n="5" unit="verse"/>
                <l>The promised Ierusalem, and hys felicitye.</l>
-               <milestone type="tcpmilestone" unit="verse" n="6"/>
+               <milestone type="tcpmilestone" n="6" unit="verse"/>
                <l>Thou shalt thy childrens children see, to thy great ioyes increase:</l>
                <l>And likewyse grace on Israell, prosperitie and peace.</l>
             </div>
@@ -13559,30 +13562,30 @@ BLessed art thou that fearest God, <note place="margin">Sing thys as the. cxxxvi
                <l>eue<g ref="char:cmbAbbrStroke">̄</g> fro<g ref="char:cmbAbbrStroke">̄</g> my youth my foes haue oft me noted</l>
                <l>Athousand euils since, I was te<g ref="char:cmbAbbrStroke">̄</g>dre &amp; yonge</l>
                <l>They haue wrought, yet was I not destroyed.</l>
-               <milestone type="tcpmilestone" unit="verse" n="2"/>
+               <milestone type="tcpmilestone" n="2" unit="verse"/>
                <l>As yet I beare the marks in bone and skyn.</l>
                <l>that one wold think y<hi rend="sup">t</hi> the plow me<g ref="char:cmbAbbrStroke">̄</g> w<hi rend="sup">t</hi> their plowes</l>
                <l>Upon my back haue made their balkes far in:</l>
                <l>for like plowd grou<g ref="char:cmbAbbrStroke">̄</g>d, eue<g ref="char:cmbAbbrStroke">̄</g> so haue I lo<g ref="char:cmbAbbrStroke">̄</g>g forowes.</l>
-               <milestone type="tcpmilestone" unit="verse" n="3"/>
+               <milestone type="tcpmilestone" n="3" unit="verse"/>
                <l>But yet the Lorde, which doth all things iustly,</l>
                <l>Hath cut the ropes, &amp; so stayd the wicked rage,</l>
-               <milestone type="tcpmilestone" unit="verse" n="4"/>
+               <milestone type="tcpmilestone" n="4" unit="verse"/>
                <l>Euen so shall all suche perish shamefully,</l>
                <l>Whiche hate Sion, or wish it any damage.</l>
-               <milestone type="tcpmilestone" unit="verse" n="5"/>
+               <milestone type="tcpmilestone" n="5" unit="verse"/>
                <l>
                   <pb n="338" facs="tcp:25701:198"/>
 5 Al such men shalbe lyke the gras that groweth</l>
                <l>Upon the wales, or tops of houses most hye,</l>
                <l>Whiche sodenly, or one bewar, widereth:</l>
                <l>So that no frute on such herbes can gathered be,</l>
-               <milestone type="tcpmilestone" unit="verse" n="6"/>
+               <milestone type="tcpmilestone" n="6" unit="verse"/>
                <l>Neuer man saw, that any mower mowed,</l>
                <l>Suche grasse as that, or therof his hand did fill:</l>
                <l>Much les that he, which glaineth of y<hi rend="sup">t</hi> is sowed,</l>
                <l>Under his arme bare, some thing his house vntill.</l>
-               <milestone type="tcpmilestone" unit="verse" n="7"/>
+               <milestone type="tcpmilestone" n="7" unit="verse"/>
                <l>Nor yet that he, that passeth by that way</l>
                <l>Sayth to the repers, God saue you, or God spede,</l>
                <l>No no man doth wishe them good lucke, I saye,</l>
@@ -13610,22 +13613,22 @@ BLessed art thou that fearest God, <note place="margin">Sing thys as the. cxxxvi
                   </gap> request. For it is full due tyme: And let thyne <gap reason="music">
                      <desc>〈♫〉</desc>
                   </gap> eares aye be prest, vnto thys prayer myne.</p>
-               <milestone type="tcpmilestone" unit="verse" n="3"/>
+               <milestone type="tcpmilestone" n="3" unit="verse"/>
                <l>O Lorde our God if thou way, our sinnes and them peruse:</l>
                <l>Who shall then escape, and say, I can my selfe excuse?</l>
-               <milestone type="tcpmilestone" unit="verse" n="4"/>
+               <milestone type="tcpmilestone" n="4" unit="verse"/>
                <l>But Lord thou art mercifull, and turnest to vs thy grace:</l>
                <l>That we with harts most carefull, should feare before thy face.</l>
-               <milestone type="tcpmilestone" unit="verse" n="5"/>
+               <milestone type="tcpmilestone" n="5" unit="verse"/>
                <l>In God I put my whole trust, my soule wayteth on his wyll:</l>
                <l>For his promise is most iust, and I hope therin styll.</l>
-               <milestone type="tcpmilestone" unit="verse" n="6"/>
+               <milestone type="tcpmilestone" n="6" unit="verse"/>
                <l>My soule to God hath regarde, wishing for him alway:</l>
                <l>More then they that watch and ward, to see the dauning day.</l>
-               <milestone type="tcpmilestone" unit="verse" n="7"/>
+               <milestone type="tcpmilestone" n="7" unit="verse"/>
                <l>Let Israell then boldly, in the Lorde put his trust:</l>
                <l>He is that God of mercy, that his deliuer must.</l>
-               <milestone type="tcpmilestone" unit="verse" n="8"/>
+               <milestone type="tcpmilestone" n="8" unit="verse"/>
                <l>For he it is that must saue, Israell from his sinne:</l>
                <l>And all suche as surely haue, their co<g ref="char:cmbAbbrStroke">̄</g>fidence in him.</l>
             </div>
@@ -13758,10 +13761,10 @@ For I haue there, ordaynde for myne, alanthorne bright and good.</l>
                   </gap> of the Lorde, Which in his house by night do <gap reason="music">
                      <desc>〈♫〉</desc>
                   </gap> watch, prayse him with one accorde.</p>
-               <milestone type="tcpmilestone" unit="verse" n="2"/>
+               <milestone type="tcpmilestone" n="2" unit="verse"/>
                <l>Lyft vp your hands on high, vnto his holy place,</l>
                <l>And geue the Lorde his prayses due: his benefites embrace.</l>
-               <milestone type="tcpmilestone" unit="verse" n="3"/>
+               <milestone type="tcpmilestone" n="3" unit="verse"/>
                <l>For why? the Lord, who did, both earth and heauen frame,</l>
                <l>Doeth Sion bles and will conserue, for euer more the same.</l>
             </div>
@@ -14567,18 +14570,18 @@ And eke his word with spedy course, doth swiftly runne about.</l>
                   </gap> Aboue the starry skie. 2. And also ye his angels <gap reason="music">
                      <desc>〈♫〉</desc>
                   </gap> all, armies royall prayse him with glee.</p>
-               <milestone type="tcpmilestone" unit="verse" n="3"/>
+               <milestone type="tcpmilestone" n="3" unit="verse"/>
                <l>Praise him both mone and Sunne,</l>
                <l>Whiche are so cleare and bryght,</l>
                <l>The same in you be done,</l>
                <l>Ye glistring starres of lyght,</l>
-               <milestone type="tcpmilestone" unit="verse" n="4"/>
+               <milestone type="tcpmilestone" n="4" unit="verse"/>
                <l>And eke no les,</l>
                <l>De Heauens faire,</l>
-               <milestone type="tcpmilestone" unit="verse" n="5"/>
+               <milestone type="tcpmilestone" n="5" unit="verse"/>
                <l>And cloudes of the ayre,</l>
                <l>His laud expresse.</l>
-               <milestone type="tcpmilestone" unit="verse" n="6"/>
+               <milestone type="tcpmilestone" n="6" unit="verse"/>
                <l>For at his worde they were,</l>
                <l>All formed as we see:</l>
                <l>At his voyce did appeare,</l>
@@ -14587,44 +14590,44 @@ And eke his word with spedy course, doth swiftly runne about.</l>
                <l>To them he made,</l>
                <l>A law and trade,</l>
                <l>For aye to laste,</l>
-               <milestone type="tcpmilestone" unit="verse" n="7"/>
+               <milestone type="tcpmilestone" n="7" unit="verse"/>
                <l>Extoll and prayse Gods name,</l>
                <l>In earth ye Dragons fell,</l>
                <l>All depe doo ye the same,</l>
                <l>For it becommeth you well.</l>
-               <milestone type="tcpmilestone" unit="verse" n="8"/>
+               <milestone type="tcpmilestone" n="8" unit="verse"/>
                <l>Him magnyfye,</l>
                <l>Fyre, Hayle, Ise, Snowe,</l>
                <l>
                   <pb n="373" facs="tcp:25701:215"/>
 And stormes that blow,</l>
                <l>At his decree.</l>
-               <milestone type="tcpmilestone" unit="verse" n="9"/>
+               <milestone type="tcpmilestone" n="9" unit="verse"/>
                <l>The hilles and mountaines all,</l>
                <l>And trees that frutfull are:</l>
                <l>The Cedres great and tall,</l>
                <l>His worthy prayie declare.</l>
-               <milestone type="tcpmilestone" unit="verse" n="14"/>
+               <milestone type="tcpmilestone" n="14" unit="verse"/>
                <l>Beastes and cattell,</l>
                <l>yea birdes fliyng:</l>
                <l>And wormes crepyng,</l>
                <l>That on earth dwell.</l>
-               <milestone type="tcpmilestone" unit="verse" n="11"/>
+               <milestone type="tcpmilestone" n="11" unit="verse"/>
                <l>All kinges both more and les,</l>
                <l>With all their pompons trayne:</l>
                <l>Princes and all iudges,</l>
                <l>That in the worlde remayne,</l>
                <l>Exalte his name.</l>
-               <milestone type="tcpmilestone" unit="verse" n="12"/>
+               <milestone type="tcpmilestone" n="12" unit="verse"/>
                <l>yong men and maides,</l>
                <l>Olde men and babes.</l>
                <l>Doo ye the same.</l>
-               <milestone type="tcpmilestone" unit="verse" n="13"/>
+               <milestone type="tcpmilestone" n="13" unit="verse"/>
                <l>For his name shall we proue,</l>
                <l>To be most excellent:</l>
                <l>Whose prayse is farre aboue,</l>
                <l>The earth and firmament.</l>
-               <milestone type="tcpmilestone" unit="verse" n="14"/>
+               <milestone type="tcpmilestone" n="14" unit="verse"/>
                <l>For sure he shall,</l>
                <l>Exalt with blisse,</l>
                <l>The horne of his:</l>
@@ -14633,7 +14636,7 @@ And stormes that blow,</l>
                <l>His prayse and worthines:</l>
                <l>The children of Israell,</l>
                <l>Eche one both more and les,</l>
-               <milestone type="tcpmilestone" unit="verse" n="15"/>
+               <milestone type="tcpmilestone" n="15" unit="verse"/>
                <l>And also they,</l>
                <l>That with good will,</l>
                <l>
@@ -14715,42 +14718,42 @@ His wordes fulfyll,</l>
                   </expan> Se that my words in <gap reason="music">
                      <desc>〈♫〉</desc>
                   </gap> mind thou bear, And to my precepts listen wel.</p>
-               <milestone type="tcpmilestone" unit="verse" n="1"/>
+               <milestone type="tcpmilestone" n="1" unit="verse"/>
                <l>I am thy Souerayne Lorde and God,</l>
                <l>Whiche haue thee brought from carefull thrall:</l>
                <l>And eke reclaymed from Pharos rod.</l>
                <l>Make thee no Gods on them to call.</l>
-               <milestone type="tcpmilestone" unit="verse" n="2"/>
+               <milestone type="tcpmilestone" n="2" unit="verse"/>
                <l>Nor facyoned forme of any thyng,</l>
                <l>In heauen, or earth to worship it:</l>
                <l>For I thy God by reuengyng,</l>
                <l>With greuous plages this syn will smite,</l>
-               <milestone type="tcpmilestone" unit="verse" n="3"/>
+               <milestone type="tcpmilestone" n="3" unit="verse"/>
                <l>Take not in vayne his holy name,</l>
                <l>Abuse it not after thy will:</l>
                <l>For so thou might soone purchase blame,</l>
                <l>And in his wrath he would thee spill.</l>
-               <milestone type="tcpmilestone" unit="verse" n="4"/>
+               <milestone type="tcpmilestone" n="4" unit="verse"/>
                <l>The Lorde from worke the seuenth day cest,</l>
                <l>And brought all thinges to perfect end:</l>
                <l>So thou and thyne that day take rest</l>
                <l>
                   <pb n="367" facs="tcp:25701:217"/>
 That to Gods hests ye may attend.</l>
-               <milestone type="tcpmilestone" unit="verse" n="5"/>
+               <milestone type="tcpmilestone" n="5" unit="verse"/>
                <l>Unto thy parents honor geue,</l>
                <l>As Gods commaundements doo pretende,</l>
                <l>That thou long dayes, and good maies liue,</l>
                <l>In earth, where God a place doth lende,</l>
-               <milestone type="tcpmilestone" unit="verse" n="6"/>
+               <milestone type="tcpmilestone" n="6" unit="verse"/>
                <l>Beware of muder, and cruell hate,</l>
-               <milestone type="tcpmilestone" unit="verse" n="7"/>
+               <milestone type="tcpmilestone" n="7" unit="verse"/>
                <l>All fylthy fornication feare:</l>
-               <milestone type="tcpmilestone" unit="verse" n="8"/>
+               <milestone type="tcpmilestone" n="8" unit="verse"/>
                <l>Se thou steale not in any rate,</l>
-               <milestone type="tcpmilestone" unit="verse" n="9"/>
+               <milestone type="tcpmilestone" n="9" unit="verse"/>
                <l>False witnes against no man beare,</l>
-               <milestone type="tcpmilestone" unit="verse" n="10"/>
+               <milestone type="tcpmilestone" n="10" unit="verse"/>
                <l>Thy neyghbors house with not to haue</l>
                <l>His wyfe, or ought that he caleth mine,</l>
                <l>His field, his oxe, his asse, his sclaue,</l>
@@ -16421,11 +16424,14 @@ calamitie of body, or vexatio<g ref="char:cmbAbbrStroke">̄</g> of mind that it 
             <trailer>FINIS.</trailer>
          </div>
          <div type="colophon">
-            <figure>
-               <p>POST FVNERA VIRTVS</p>
-               <p>VIVET TIMEN</p>
-               <p>ETSI MORS. INDIES ACCELERAT</p>
-            </figure>
+            <p>
+               <pb facs="tcp:25701:236"/>
+               <figure>
+                  <p>POST FVNERA VIRTVS</p>
+                  <p>VIVET TIMEN</p>
+                  <p>ETSI MORS. INDIES ACCELERAT</p>
+               </figure>
+            </p>
             <p>¶ Imprinted at London by Iohn Day, dwelling ouer Aldersgate, beneath Saincte Martines.</p>
             <p>¶ <hi>Cum gratia &amp; priuilegio Regiae Maiestatis. perseptennium.</hi>
             </p>
